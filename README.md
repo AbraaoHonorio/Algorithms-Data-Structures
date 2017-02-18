@@ -57,6 +57,8 @@ Implementation of sort algorithms:
   ```
 
 
+### Sort Order 04
+
 ### Have a question or suggestion?			
 
  Contact me on [Linkedin](https://br.linkedin.com/in/abraaohonorio), send an email to abraao.allyson@eng.ci.ufpb.br, or create a pull request in this project. 
