@@ -25,10 +25,10 @@ Implementation of sort algorithms:
 Select a colleague who has implemented sorting algorithms using a different programming language than yours.
 For each input subset, run all algorithms and calculate the average time each algorithm spends for each size present in the subset.
   
-  The Javascript code can be found in the following git repository: [sort01](https://github.com/bezerrathm/Design-And-Analysis-Of-Computer-Algorithms/)
+  The Javascript code can be found in the following git repository: [clique aqui](https://github.com/bezerrathm/Design-And-Analysis-Of-Computer-Algorithms/)
 
 
-The code in C ++ can be found in the following git repository:  [sort01](https://github.com/AbraaoHonorio/Design-and-Analysis-of-Algorithms/tree/master/Sorting%2001)
+The code in C ++ can be found in the following git repository: [clique aqui](https://github.com/AbraaoHonorio/Design-and-Analysis-of-Algorithms/tree/master/Sorting%2001)
   
   
   
