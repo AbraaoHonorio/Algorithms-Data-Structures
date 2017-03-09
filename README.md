@@ -10,7 +10,7 @@ Implementation of sort algorithms:
   
   
 
-### Building for source Order 01
+### Building for source Sort Order 01
   ```sh
   make all
    ```
@@ -32,7 +32,7 @@ The code in C ++ can be found in the following git repository: https://github.co
   
   
   
-### Building for source Order 02
+### Building for source Sort Order 02
   ```sh
   make all
    ```
@@ -48,7 +48,7 @@ Implementation of sort algorithms:
  
   
 
-### Building for source Order 03
+### Building for source Sort Order  03
   ```sh
   make all
    ```
@@ -68,7 +68,19 @@ Make sure the input size is less than 22
 For any other case
   - Apply Quick Sort
 
+### Building for source Selector heuristic
 
+
+  ```sh
+  make all
+   ```
+  ```sh
+   ./apa-first_job <method_number> < <input_file_name>
+  ```
+  
+  
+  
+  
 ### Have a question or suggestion?			
 
  Contact me on [Linkedin](https://br.linkedin.com/in/abraaohonorio), send an email to abraao.allyson@eng.ci.ufpb.br, or create a pull request in this project. 
