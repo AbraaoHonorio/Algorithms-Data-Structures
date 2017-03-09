@@ -57,7 +57,17 @@ Implementation of sort algorithms:
   ```
 
 
-### Sort Order 04
+### Selector heuristic
+
+Verify that the input contains non-numeric characters
+  - If yes apply Radix Sort
+Make sure the input size is larger than the free main memory
+  - If yes, apply Merge Sort
+Make sure the input size is less than 22
+  - If yes apply Insertion Sort
+For any other case
+  - Apply Quick Sort
+
 
 ### Have a question or suggestion?			
 
