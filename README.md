@@ -75,7 +75,7 @@ For any other case
   make all
    ```
   ```sh
-   ./apa-first_job <method_number> < <input_file_name>
+   ./apa-first_job < <input_file_name>
   ```
   
   
