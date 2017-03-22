@@ -107,6 +107,7 @@ For any other case
   ```
  ### Credits knapsack problem
  Developers: Abraão Állysson dos Santos Honório 
+ 
              Thiago Henrique Menêses Bezerra [GitHub](https://github.com/bezerrathm)
 
 
