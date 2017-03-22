@@ -106,7 +106,9 @@ For any other case
    ./apa-mochila < mochila01.txt 
   ```
  ### Credits knapsack problem
- Developers: Abraão Állysson dos Santos Honório   and  Thiago Henrique Menêses Bezerra [GitHub](https://github.com/bezerrathm)
+ Developers: 
+   - Abraão Állysson dos Santos Honório 
+   - Thiago Henrique Menêses Bezerra [GitHub](https://github.com/bezerrathm)
 
 
   
