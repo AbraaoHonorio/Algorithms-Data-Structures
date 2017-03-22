@@ -79,11 +79,41 @@ For any other case
   ```
   
   
-  
+### A Dynamic Programming based solution for 0-1 Knapsack problem
+
+### Arquivo de entrada:
+    n M
+    pi
+    vi
+
+    subtitle:
+    n: |O|
+    M : Backpack capacity
+    pi : Vector of object weights
+    vi : Vector of object values
+    . E.g.:
+
+    4 30
+    13 23 17 19
+    23 29 27 25
+
+### Building for source knapsack problem
+ 
+ ```sh
+  make all
+   ```
+  ```sh
+   ./apa-mochila < mochila01.txt 
+  ```
+ ### Credits knapsack problem
+ Developers: Abraão Állysson dos Santos Honório 
+             Thiago Henrique Menêses Bezerra [GitHub](https://github.com/bezerrathm)
+
+
   
 ### Have a question or suggestion?			
 
- Contact me on [Linkedin](https://br.linkedin.com/in/abraaohonorio), send an email to abraao.allyson@eng.ci.ufpb.br, or create a pull request in this project. 
+Contact me on [Linkedin](https://br.linkedin.com/in/abraaohonorio), send an email to abraao.allyson@eng.ci.ufpb.br, or create a pull request in this project. 
 
 ---
   
