@@ -81,7 +81,7 @@ For any other case
   
 ### A Dynamic Programming based solution for 0-1 Knapsack problem
 
-### Arquivo de entrada:
+### Input file:
     n M
     pi
     vi
@@ -106,6 +106,76 @@ For any other case
    ./apa-mochila < mochila01.txt 
   ```
  ### Credits knapsack problem
+ Developers: 
+   - Abraão Állysson dos Santos Honório 
+   - Thiago Henrique Menêses Bezerra [GitHub](https://github.com/bezerrathm)
+
+
+
+
+
+
+### Minimum spanning tree
+
+The greedy solution of PRIM to the Problem of the Minimum Scattering Tree
+
+### Input file:
+    n 
+    𝑤𝑖𝑗
+
+    subtitle:
+    n: |V|
+    𝑤𝑖𝑗 : Edge weights function (Adjacency Matrix)
+    . E.g.:
+
+    4
+    0 23 17 19
+    14 0 22 20
+    23 15 0 25
+    13 19 21 0
+
+### Building for source Minimum spanning tree
+ 
+ ```sh
+  make all
+   ```
+  ```sh
+   ./apa-PRIM < dij10.txt 
+  ```
+  
+  
+### Dijkstra
+
+ Dijkstra's greedy solution to the Minimum Path problem. Consider for all instances the origin vertex 𝑢 = 0 and 𝑣 = 𝑛-1
+
+### Input file:
+    n 
+    𝑤𝑖𝑗
+
+    subtitle:
+    n: |V|
+    𝑤𝑖𝑗 : Edge weights function 
+    . E.g.:
+
+    4
+    0 23 17 19
+    14 0 22 20
+    23 15 0 25
+    13 19 21 0
+
+### Building for source Dijkstra
+ 
+ ```sh
+  make all
+   ```
+  ```sh
+   ./apa-Dijkstra < dij10.txt 
+  ```
+  
+  
+  
+  
+ ### Credits Minimum spanning tree problem and Dijkstra
  Developers: 
    - Abraão Állysson dos Santos Honório 
    - Thiago Henrique Menêses Bezerra [GitHub](https://github.com/bezerrathm)
