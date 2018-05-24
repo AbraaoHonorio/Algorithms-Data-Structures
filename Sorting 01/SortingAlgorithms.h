@@ -18,7 +18,6 @@ public:
 	void mergeSort(int begin, int end, std::vector<int> &vElements);
 	void quickSort(int begin, int end, std::vector<int> &vElements);
 	void heapSort(std::vector<int> &vElements);
-	//int minElement(std::vector<int> &vector);
 };
 
 #endif
