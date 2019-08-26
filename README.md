@@ -183,6 +183,7 @@ The greedy solution of PRIM to the Problem of the Minimum Scattering Tree
 
   
 ### Have a question or suggestion?			
+PS: This repository is intended for the works of the discipline of analysis and algorithm projects of the Federal University of Paraiba  - UFPB
 
 Contact me on [Linkedin](https://br.linkedin.com/in/abraaohonorio), send an email to abraao.allyson@eng.ci.ufpb.br, or create a pull request in this project. 
 
